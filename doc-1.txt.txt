@@ -1,3 +1,3 @@
 this is the document
 hey hii this commit was changed now 
-this was changed by the another developer
+this was changed by the another developers
